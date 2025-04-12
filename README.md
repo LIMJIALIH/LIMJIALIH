@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me
   Instagram: LimJiaLih
+  
   GitHub: JiaLihLim
 - 😄 Pronouns: JiaLeh
 - ⚡ Fun fact: I'm from Perlis( The state at the northwestern coast of Peninsular Malaysia )
