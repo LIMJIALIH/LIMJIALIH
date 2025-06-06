@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LIMJIALIH
 - 👀 I’m interested in learning new framework and build interesting project.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Flask and Streamlit
 - 📫 How to reach me
   Instagram: LimJiaLih
   
