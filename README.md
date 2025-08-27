@@ -55,12 +55,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-JiaLihLim-181717?logo=github&logoColor=white)  
 
 ---
-
-## 🐍 Fun Extras  
-![GitHub Snake Light](https://github.com/LIMJIALIH/LIMJIALIH/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/LIMJIALIH/LIMJIALIH/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
-
-
-
-
----
