@@ -42,8 +42,10 @@
 
 ## 📊 GitHub & Coding Stats  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LIMJIALIH&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=LIMJIALIH&theme=react)](https://git.io/streak-stats)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/LIMJIALIH?theme=light,unicorn)  
+
+## 📈 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIMJIALIH&layout=compact&theme=tokyonight)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LIMJIALIH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
@@ -55,3 +57,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-JiaLihLim-181717?logo=github&logoColor=white)  
 
 ---
+
+### Technical
+| Competition | Result | Repository |
+|-------------|--------|------------|
+| UM Internal Hackathon 2024| Participant | Private Repository |
+| UM Hackathon 2025 | Participant | https://github.com/LIMJIALIH/UMHackathon-2025 |
+| Hackathon x UMPSA | Participant | https://github.com/LIMJIALIH/OOP-POLYMORPHISM |
+| DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | https://github.com/YiCave/hokkien-mee-is-red-and-black|
+| DevMatch APU 2025 – BGA Track | Participant | https://github.com/YiCave/hokkien-mee-is-red-and-black |
