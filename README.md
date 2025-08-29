@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 - 🎓 AI Major | Passionate about programming & problem-solving  
 - 🤖 Interested in **AI Agents, Large Language Models (LLMs), and Generative AI**  
-- 🌱 Currently exploring **Flask, Streamlit, and AI integrations**  
+- 🌱 Currently exploring **LLMs**  
 - 🚀 Building projects in **Java, Python, Blockchain, and Data Science**  
 - 🎯 Goal: Create impactful, sustainable, and AI-powered solutions  
 - 😄 Pronouns: JiaLeh  
