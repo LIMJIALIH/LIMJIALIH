@@ -66,3 +66,6 @@
 | Hackathon x UMPSA | Participant | https://github.com/LIMJIALIH/OOP-POLYMORPHISM |
 | DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | https://github.com/YiCave/hokkien-mee-is-red-and-black|
 | DevMatch APU 2025 – BGA Track | Participant | https://github.com/YiCave/hokkien-mee-is-red-and-black |
+| Future Ready Hackathon 2025 | Top 6 | https://github.com/LIMJIALIH/bos_solution |
+| CodeNection MMU 2025 | participant | https://github.com/LIMJIALIH/InsureWiz |
+| Monash x Loreal | ongoing | https://github.com/LIMJIALIH/Loreal_Datathon |
